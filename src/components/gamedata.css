@@ -1,0 +1,6 @@
+#data > input, button, h1 {
+  display: block;
+  /* justify-content: center; */
+  margin-top: 10px;
+  margin-left: 20px;
+}
